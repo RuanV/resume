@@ -14,9 +14,12 @@ export const metadata = {
 	description:
 		"Senior Software Engineer and System Architect delivering scalable, high-impact software systems with a business-first mindset and deep full-stack expertise.",
 	icons: {
-		icon: "/ProfilePicture.png?v=2",
-		shortcut: "/ProfilePicture.png?v=2",
-		apple: "/ProfilePicture.png?v=2",
+		icon: [
+			{ url: "/icon.png" },
+			{ url: "/favicon.png" },
+		],
+		apple: "/apple-touch-icon.png",
+		shortcut: "/favicon.png",
 	},
 };
 

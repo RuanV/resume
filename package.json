@@ -1,6 +1,6 @@
 {
-  "name": "developer-portfolio",
-  "description": "Portfolio of Abu Said",
+  "name": "resume",
+  "description": "Resume site for Ruan Viljoen",
   "version": "0.1.0",
   "private": true,
   "scripts": {

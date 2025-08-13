@@ -17,7 +17,7 @@ export const skillsData = [
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
-// Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
+// Customize this list to match your skills. Add corresponding icons in utils/skill-image.js if needed.
 
 
 // AVAILABLE SKILLS
