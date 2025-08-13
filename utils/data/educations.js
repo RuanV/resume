@@ -1,20 +1,14 @@
 export const educations = [
-  {
-    id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
-  },
-  {
-    id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
-  },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+	{
+		id: 1,
+		title: 'Bachelor of Science (BSc) in Information Technology',
+		duration: '2014 - 2019',
+		institution: 'North-West University',
+	},
+	{
+		id: 2,
+		title: 'Grade 12',
+		duration: '2008 - 2013',
+		institution: 'Sasolburg High School',
+	}
 ]

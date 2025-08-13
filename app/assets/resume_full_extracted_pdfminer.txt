@@ -1,0 +1,335 @@
+Ruan Viljoen
+
+ruan15viljoen@gmail.com  |  Potchefstroom, South Africa
+
+Senior Software Engineer | System Architect | Team Leader Delivering scalable, high-impact software
+systems with a business-first mindset and deep full-stack expertise. Proven track record leading cross-
+functional teams, driving modern development practices, and delivering robust, maintainable solutions
+across industries.
+
+Top skills
+
+Node.js
+
+Software System Design
+
+React
+
+AngularJS
+
+Vue.js
+
+Systems Engineering
+
+Project Managment
+
+Database Design
+
+Express.js
+
+Docker
+
+Summary
+
+About
+
+With a keen interest in community and collaboration, I am not only a social individual who thrives on working with people but also someone who
+actively seeks out challenges and opportunities to make a positive impact. My passion extends beyond the conventional workplace, as I derive
+immense satisfaction from taking on side projects for small businesses and friends.
+
+My dedication to neatness and precision isn't limited to professional endeavors; it extends to the side projects I undertake, ensuring that each
+venture is executed with meticulous attention to detail. This commitment is complemented by my friendly and approachable nature, making the
+collaborative process enjoyable and rewarding for everyone involved.
+
+In both my professional and personal spheres, I embody the philosophy of living life to the fullest. This zest for life serves as the driving force
+behind my work on side projects, infusing creativity and enthusiasm into every endeavor. The satisfaction of contributing to the success of small
+businesses and supporting friends in their ventures is a source of immense joy.
+
+In essence, as a social, challenge-seeking, neat, and friendly individual, my commitment to collaborative side projects reflects not only my
+professional versatility but also my dedication to fostering growth and success within my broader community.
+
+Ideal next job
+
+I’m a technically-driven, people-focused Senior Software Engineer who thrives on collaboration, continuous learning, and building solutions that
+create real-world impact. Beyond my core work, I’m passionate about helping others succeed—regularly taking on side projects for small
+businesses and friends where I can apply my skills to make a tangible difference.
+
+I bring a high standard of precision, care, and creativity to everything I do—whether it’s designing scalable systems, mentoring junior developers,
+or supporting community-driven tech initiatives. My approachable nature and enthusiasm for solving problems make me a trusted collaborator and
+team player across both professional and personal projects.
+
+What drives me most is the opportunity to create meaningful software, support others in their growth, and bring structure and quality to every
+stage of the development process. I'm especially fulfilled when working in environments that value both technical excellence and strong human
+connection.
+
+In every role, I strive to contribute more than just code—I aim to foster growth, inspire innovation, and leave a lasting positive impact on the
+people and systems I work with.
+
+Work experience
+
+Mar 2024   -   Present
+A&R Tech Group (Senior Software Engineer)
+
+Jira
+
+Kanban
+
+Scrum
+
+JavaScript
+
+Docker
+
+Google Cloud
+
+OLAP Cube Modelling
+
+AngularJS
+
+Node.js
+
+Node-RED
+
+Linux
+
+Microsoft Teams
+
+Slack
+
+GitLab
+
+CircleCI
+
+CI/CD
+
+I'm a Senior Software Engineer and Technical Lead with a passion for building scalable, industry-specific software systems and leading high-
+performing teams. My expertise spans multiple JavaScript frameworks—including React, Angular, AngularJS, and Vue.js—alongside
+backend development with Node.js and infrastructure management using Docker and CI/CD pipelines.
+
+In my current role, I architect and deliver customized, containerized applications tailored to site-specific client needs, particularly in the mining
+and engineering space. These solutions are built using a combination of MERN stack services and modern frontend frameworks, depending
+on the technical requirements of each project.
+
+I lead cross-functional teams through the full development lifecycle—from designing multi-framework architectures and managing cloud-
+
+Powered by
+
+Page 1
+
+ 
+based deployments to mentoring developers and continuously optimizing delivery pipelines. My responsibilities also include DevOps
+implementation, infrastructure planning, and ensuring operational stability across environments.
+
+As the founder of my own software company, I bring a business-driven mindset to every project I touch—balancing deep technical
+involvement with strategic thinking. Whether it's driving product architecture or scaling delivery across clients, I’m committed to delivering
+impactful, maintainable solutions that evolve with the needs of the business.
+
+Jul 2022   -   Present
+KRAFT designsmiths® (Technical Project Manager)
+
+Google Cloud
+
+WordPress
+
+Vue.js
+
+Vuetify
+
+Jira
+
+CircleCI
+
+Docker
+
+CI/CD
+
+Vercel
+
+Netlify
+
+Heroku
+
+React
+
+Next.js
+
+Nuxt.js
+
+Node.js
+
+MongoDB
+
+PostgreSQL
+
+Harvest
+
+Slack
+
+GitHub
+
+Express.js
+
+Strapi
+
+As the Technical Project Manager and Scrum Master in my current role, I play a pivotal role in driving the success of our software
+development projects. My responsibilities encompass a diverse range of tasks that showcase my skills in project management, client
+interfacing, and technical leadership.
+
+Key Responsibilities:
+
+Technical Project Management:
+
+Overseeing end-to-end execution of software development projects.
+
+Developing and maintaining comprehensive project plans aligned with organizational objectives.
+
+Collaborating with cross-functional teams to define project scope and deliverables.
+
+Scrum Master Responsibilities:
+
+Facilitating Scrum ceremonies and fostering a collaborative team environment.
+
+Removing impediments to team progress and ensuring a focus on delivering high-quality results.
+
+Driving continuous improvement through regular retrospectives.
+
+Client Interfacing:
+
+Serving as the primary point of contact for clients, providing regular updates and addressing concerns.
+
+Collaborating with clients to gather and refine project requirements.
+
+Ensuring client satisfaction through effective communication and successful project delivery.
+
+System Architecture:
+
+Contributing to system architecture discussions, providing technical insights and guidance.
+
+Collaborating with development teams to align architectural decisions with project goals.
+
+Budget Management and Deadline Adherence:
+
+Working closely with stakeholders to establish project budgets and timelines.
+
+Monitoring project progress against budgets and deadlines, taking proactive measures to address deviations.
+
+Optimizing resource allocation for project success.
+
+Achievements:
+
+Implemented agile methodologies, leading to improved team collaboration and increased project efficiency.
+
+Received positive feedback from clients for exceptional communication and successful project outcomes.
+
+Ongoing Focus:
+
+Continuing to excel in client satisfaction, project delivery, and technical leadership, I remain committed to driving the success of our software
+development initiatives. My role involves constant adaptation to emerging technologies, fostering a culture of innovation, and ensuring that
+our projects align with industry best practices.
+
+In summary, my current position as a Technical Project Manager and Scrum Master reflects my dedication to project success, client
+satisfaction, and technical excellence.
+
+Powered by
+
+Page 2
+
+Jan 2019   -   Jul 2022
+Master Drilling (Software Engineer)
+
+Node.js
+
+HTML Canvas
+
+Three.js
+
+WebGL
+
+CSS3
+
+PLC
+
+AngularJS
+
+React
+
+Network Sockets
+
+WebSocket
+
+Currently, I hold the position of a Senior Software Engineer, leading a team of dedicated professionals to successfully accomplish our
+collective goals and project expectations. My role extends beyond the typical responsibilities of a software engineer, as I have taken charge
+of a diverse array of software development projects and spearheaded automation initiatives on our rigs worldwide. Over the past two years,
+my focus has shifted towards leadership and mentorship, resulting in valuable experiences that have shaped my role as a guiding figure
+within the team.
+
+In addition to project management, I played a pivotal role in conceptualizing, designing, and developing a simulator aimed at enhancing field
+training for our operational teams. My current responsibilities encompass the comprehensive management of robotics, software, automation,
+and remote operations, including the oversight of AR and VR projects. This multifaceted role reflects my adaptability and proficiency in
+handling diverse technological domains.
+
+My skill set extends to encompassing the evaluation, planning, and feasibility assessment of both software and hardware for projects. I
+believe my expertise in navigating new technologies, coupled with a strategic approach to process planning, positions me as a valuable
+asset capable of contributing effectively to any company.
+
+Beyond my current role, I've collaborated on small-scale projects within the mining industry, particularly in the realm of Network Engineering.
+A notable instance involved traveling to Peru, where I not only oversaw but actively implemented a new project, further showcasing my
+hands-on and versatile approach to project execution.
+
+In summary, my journey as a Senior Software Engineer has evolved beyond conventional boundaries, encompassing leadership,
+mentorship, project management, and hands-on development. I am confident that my diverse experiences and skill set make me well-suited
+to navigate and contribute to the dynamic landscape of technology and project implementation within any organization.
+
+Nov 2017   -   Jan 2019
+Master Drilling (Junior Software Engineer)
+
+JavaScript
+
+AngularJS
+
+HTML5
+
+Google Cloud
+
+Unreal Engine
+
+Unity
+
+Node.js
+
+npm
+
+Vue.js
+
+This was my first job after University.
+
+I started off my job by working on a Full Stack framework with the MEAN stack. I got more involved in bigger projects such as machine
+automation, network engineering as well VR and AR.
+
+I started to develop a simulator using Node.js, Unity and Blender.
+
+I implemented a lot of functions on the Full Stack such as daily reporting and custom dashboards.
+
+Education
+
+North-West University
+Bachelor of Science (BSc) in Information Technology
+
+Sasolbur high school
+Grade 12
+
+Personal info
+
+Citizenship: South Africa
+
+Authorized to work in: South Africa
+
+Jan 2014 - Jan 2019
+
+Jan 2008 - Nov 2013
+
+Powered by
+
+Page 3
+
+
