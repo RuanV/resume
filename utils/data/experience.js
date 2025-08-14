@@ -9,7 +9,7 @@ export const experiences = [
 		id: 2,
 		title: 'Technical Project Manager',
 		company: 'KRAFT designsmiths®',
-		duration: '(Jul 2022 - Present)'
+		duration: '(Jul 2022 - March 2024)'
 	},
 	{
 		id: 3,
