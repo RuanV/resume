@@ -33,7 +33,7 @@ export const projectsData = [
 		tools: ['React', 'AngularJS', 'Node JS', 'Express', 'PostgreSQL', 'MongoDB', 'WebSocket', 'Three.js', 'WebGL', 'Docker', 'GCP'],
 		code: '',
 		demo: '',
-		role: 'Junior Software Engineer / Tech Lead',
+		role: 'Junior Software Engineer',
 	}
 ];
 
